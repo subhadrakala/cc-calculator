@@ -1,0 +1,12 @@
+{
+  "name": "cc-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC"
+}
