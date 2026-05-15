@@ -7,7 +7,7 @@ precedence.set('/', 2);
 precedence.set('^', 3);
 
 
-export function postfix(s) {
+export default function postfix(s) {
     let stack = [];
     let result = '';
 
